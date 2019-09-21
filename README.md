@@ -4,19 +4,24 @@ Jawaban Test Muhammad Miftahuddin Ghofur
 
 # Keterangan :
 --------------------------------------------------------------------------------------
-# nomer 1 : Menggunakan bahasa pemrograman php
-# nomer 2 : Menggunakan validasi Pregex bahasa pemrograman Javascript
-# nomer 3 : Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi
-# nomer 4 : Menggunakan Pyhton 3 untuk memunculkan deret fibonaci
-# nomer 5 : Menggunakan Python 3 untuk mencari total Mie yang di dapatkan dari tanggal dan jumlah uang tertentu
+# nomer 1 : 
+<h3>Menggunakan bahasa pemrograman php </h3>
+# nomer 2 : 
+<h3>Menggunakan validasi Pregex bahasa pemrograman Javascript
+# nomer 3 : 
+<h3>Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi
+# nomer 4 : 
+<h3>Menggunakan Pyhton 3 untuk memunculkan deret fibonaci
+# nomer 5 : 
+<h3>Menggunakan Python 3 untuk mencari total Mie yang di dapatkan dari tanggal dan jumlah uang tertentu
 
 # No 6 : 
 menggunakan bahasa PHP . dijalankan di localhost
-sebelum menjalankan di harapkan import database salary.sql
+sebelum menjalankan di harapkan import database arkademy.sql
 
 Halaman utama adalah index.php
 <br> Tampilan : 
-<br> <img src="capture/index.JPG"> 
+<br> <img src="capture/utama.JPG"> 
 
 Halaman Tambah Data adalah tambahdata.php
 <br> dengan meng-klik tombol "ADD" maka akan muncul halaman tambah data
