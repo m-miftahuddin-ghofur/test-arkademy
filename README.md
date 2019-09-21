@@ -13,7 +13,7 @@ Jawaban Test Muhammad Miftahuddin Ghofur
 <h1>#nomer 3 : </h1>
 <h3>Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi</h3>
 <br>
-<h1>#nomer 4 : </h1
+<h1>#nomer 4 : </h1>
 <h3>Menggunakan Pyhton 3 untuk memunculkan deret fibonaci</h3>
 <br>
 <h1>#nomer 5 : </h1>
