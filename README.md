@@ -1,5 +1,5 @@
 # Arkademy Bootcamp
-<img src="No6/logo arkademy.png"> 
+<img src="no6/logo arkademy.png"> 
 Jawaban Test Muhammad Miftahuddin Ghofur
 
 # Keterangan :
