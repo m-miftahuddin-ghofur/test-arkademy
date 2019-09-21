@@ -1,31 +1,31 @@
 # Arkademy Bootcamp
-<img src="No6Project/logo arkademy.png"> 
+<img src="No6/logo arkademy.png"> 
 Jawaban Test Muhammad Miftahuddin Ghofur
 
 # Keterangan :
 --------------------------------------------------------------------------------------
-# nomer 1 : 
+<h1>nomer 1 : </h1>
 <h3>Menggunakan bahasa pemrograman php </h3>
 <br>
-# nomer 2 : 
+<h1> nomer 2 : </h1>
 <h3>Menggunakan validasi Pregex bahasa pemrograman Javascript </h3>
 <br>
-# nomer 3 : 
+<h1>#nomer 3 : </h1>
 <h3>Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi</h3>
 <br>
-# nomer 4 : 
+<h1>#nomer 4 : </h1
 <h3>Menggunakan Pyhton 3 untuk memunculkan deret fibonaci</h3>
 <br>
-# nomer 5 : 
+<h1>#nomer 5 : </h1>
 <h3>Menggunakan Python 3 untuk mencari total Mie yang di dapatkan dari tanggal dan jumlah uang tertentu</h3>
 
-# No 6 : 
+<h1> #No 6 : </h1>
 menggunakan bahasa PHP . dijalankan di localhost
-<br>sebelum menjalankan di harapkan import database arkademy.sql
+<br>sebelum menjalankan, import database arkademy.sql 
 
 Halaman utama adalah index.php
 <br> Tampilan : 
-<br> <img src="capture/utama.JPG"> 
+<br> <img src="capture/utama.jpg"> 
 
 Halaman Tambah Data adalah tambahdata.php
 <br> dengan meng-klik tombol "ADD" maka akan muncul halaman tambah data
