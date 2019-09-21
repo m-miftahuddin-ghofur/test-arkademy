@@ -7,13 +7,13 @@ Jawaban Test Muhammad Miftahuddin Ghofur
 # nomer 1 : 
 <h3>Menggunakan bahasa pemrograman php </h3>
 # nomer 2 : 
-<h3>Menggunakan validasi Pregex bahasa pemrograman Javascript
+<h3>Menggunakan validasi Pregex bahasa pemrograman Javascript </h3>
 # nomer 3 : 
-<h3>Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi
+<h3>Menggunakan python perulangan untuk mencari jumlah jabat tangan yang terjadi</h3>
 # nomer 4 : 
-<h3>Menggunakan Pyhton 3 untuk memunculkan deret fibonaci
+<h3>Menggunakan Pyhton 3 untuk memunculkan deret fibonaci</h3>
 # nomer 5 : 
-<h3>Menggunakan Python 3 untuk mencari total Mie yang di dapatkan dari tanggal dan jumlah uang tertentu
+<h3>Menggunakan Python 3 untuk mencari total Mie yang di dapatkan dari tanggal dan jumlah uang tertentu</h3>
 
 # No 6 : 
 menggunakan bahasa PHP . dijalankan di localhost
